@@ -23,6 +23,7 @@
   "item.savageandravage.wand_of_freezing": "Varita de congelación",
   "item.savageandravage.cleaver_of_beheading": "Cuchilla de decapitación",
   "item.savageandravage.eldritch_conch": "Concha sobrenatural",
+  "item.savageandravage.mask_of_dishonesty": "Máscara de deshonestidad",
   
   "item.savageandravage.creeper_spores": "Esporas de creeper",
   "item.savageandravage.mischief_arrow": "Flecha traviesa",
@@ -31,7 +32,7 @@
   "item.savageandravage.griefer_spawn_egg": "Generar gamberro",
   "item.savageandravage.executioner_spawn_egg": "Generar verdugo",
   "item.savageandravage.iceologer_spawn_egg": "Generar friólogo",
-  "item.savageandravage.trickster_spawn_egg": "Generar pícaro",
+  "item.savageandravage.trickster_spawn_egg": "Generar bribón",
 
   "entity.savageandravage.skeleton_villager": "Aldeano esqueleto",
   "entity.savageandravage.griefer": "Gamberro",
@@ -45,7 +46,7 @@
   "entity.savageandravage.iceologer": "Friólogo",
   "entity.savageandravage.ice_chunk": "Trozo de hielo",
   "entity.savageandravage.ice_cloud": "Nube de hielo",
-  "entity.savageandravage.trickster": "Pícaro",
+  "entity.savageandravage.trickster": "Bribón",
 
   "effect.savageandravage.confusion": "Confusión",
   "effect.savageandravage.frostbite": "Congelación",
@@ -54,24 +55,37 @@
   "attribute.name.generic.explosive_damage_reduction": "Reducción de daño explosivo",
 
   "advancements.savageandravage.adventure.creeper_spores.title": "Atacante esporádico",
-  "advancements.savageandravage.adventure.creeper_spores.description": "Obtén esporas de creeper matando a un creeper con una explosión",
+  "advancements.savageandravage.adventure.creeper_spores.description": "Consigue esporas de creeper matando a un creeper con una explosión",
   "advancements.savageandravage.adventure.griefer_armor.title": "Dinamita con un rayo láser",
   "advancements.savageandravage.adventure.griefer_armor.description": "Consigue todo el conjunto de la armadura de gamberro",
   "advancements.savageandravage.adventure.relic_collector.title": "Coleccionista de reliquias",
-  "advancements.savageandravage.adventure.relic_collector.description": "Reune un tótem de inmortalidad, una cuchilla de decapitación y una varita de congelación",
+  "advancements.savageandravage.adventure.relic_collector.description": "Consigue un tótem de inmortalidad, una cuchilla de decapitación, una varita de congelación, una máscara de deshonestidad y una concha sobrenatural",
+  "advancements.savageandravage.adventure.mask_of_dishonesty.title": "Ahora no me ves",
+  "advancements.savageandravage.adventure.mask_of_dishonesty.description": "Consigue una máscara de deshonestidad matando a un bribón",
 
   "advancements.savageandravage.adventure.voluntary_exile.description": "Prende fuego un estandarte repugnante.\nSerá mejor mantenerse alejado de las aldeas por un tiempo...",
+  
+  "multiplayer.savageandravage.disconnect.invisible_while_moving": "Se ha intentado mantener la invisibilidad de la máscara estando en movimiento",
 
   "subtitles.savageandravage.entity.creepie.hurt": "Creepie herido",
   "subtitles.savageandravage.entity.creepie.death": "Creepie muere",
   "subtitles.savageandravage.entity.creepie.fuse": "Siseo de creepie",
   "subtitles.savageandravage.entity.creepie.convert": "Creepie se transforma",
   "subtitles.savageandravage.entity.creepie.grow": "Creepie madura",
+
   "subtitles.savageandravage.entity.iceologer.ambient": "Friólogo murmura",
   "subtitles.savageandravage.entity.iceologer.hurt": "Friólogo herido",
   "subtitles.savageandravage.entity.iceologer.death": "Friólogo muere",
   "subtitles.savageandravage.entity.iceologer.celebrate": "Friólogo celebra",
   "subtitles.savageandravage.entity.iceologer.cast_spell": "Friólogo lanza un hechizo",
+
+  "subtitles.savageandravage.entity.trickster.ambient": "Bribón murmura",
+  "subtitles.savageandravage.entity.trickster.step": "Bribón tintinea",
+  "subtitles.savageandravage.entity.trickster.hurt": "Bribón herido",
+  "subtitles.savageandravage.entity.trickster.death": "Bribón muere",
+  "subtitles.savageandravage.entity.trickster.celebrate": "Bribón celebra",
+  "subtitles.savageandravage.entity.trickster.laugh": "Risas de bribón",
+
   "subtitles.savageandravage.entity.player.cast_spell": "Un hechizo es lanzado",
   "subtitles.savageandravage.entity.creeper_spores.throw": "Esporas de creeper vuelan",
   "subtitles.savageandravage.block.runed_gloomy_tiles.activate": "Baldosas sombrías rúnicas activadas"
